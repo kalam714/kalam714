@@ -1,3 +1,8 @@
+![Banner Image](./banner.png)
+
+
+
+
 # Hi there, my gorgeous friend 👋
 
 I'm **Abul Kalam**, a passionate Full-Stack Developer with strong expertise in **Laravel** and medium-level experience in **React.js** and **React Native (Expo)**. Currently, I'm working at **TBN24** as a Junior Developer, crafting innovative software solutions.
